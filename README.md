@@ -11,4 +11,5 @@ GCA-2000 is a plugin for Euroscope that simulates the PAR display of a GCA-2000 
 * Wind and QNH display
 * OCA/H line display ✔
 
-Compiled using VS2022 Community w MFC v143
+## Compiling instructions
+Compiled using VS2022 Community w MFC toolset v143 (VS2019 cannot be used directly as it only has toolset v142)
